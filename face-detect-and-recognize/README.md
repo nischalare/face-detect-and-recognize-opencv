@@ -42,3 +42,6 @@ Ensure opencv-python and other required libraries are installed. If not installe
 bash
 Copy code
 pip install -r requirements.txt
+
+cd face-detect-and-recognize
+py src/face_recognition.py
